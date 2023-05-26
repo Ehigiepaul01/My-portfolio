@@ -9,19 +9,18 @@ const About = () => (
         <p
           className={`${section.textSmall} ${section.textPaddingY} ${section.textLarge} text-center text-deep-gray`}
         >
-          Hi, I am Abdulrasheed Abdulsalam. A student of Federal University of Technology Minna and a member of Microsoft ADC Student League(MASL). 
+          Hi, I am Paul Ehigie. A computer science graduate.
         </p>
         <p className={`${section.textPaddingY} ${section.text}`}>
-          A Frontend Developer with a strong passion for building 
-          interactive websites, I have transformed into a dedicated and diligent 
-          front-end developer, accumulating over a year of valuable experience. 
-          My expertise lies in designing websites that are both engaging and optimized 
-          for search engines, ensuring a positive impact on your business. Collaborating
-          closely with product designers and web developers, I bring ideas to
-          life through seamless implementation. Beyond technical proficiency, I
-          excel in interpersonal skills and thrive in team environments. My
-          enthusiasm for problem-solving and embracing challenges drives my
-          constant growth and knowledge expansion.
+          I am a passionate and dedicated Frontend Developer with over a year of
+          experience. I specialize in designing interactive and optimized
+          websites that make a positive impact on businesses. Working closely
+          with product designers and developers, I bring ideas to life through
+          seamless implementation. My strengths lie not only in technical
+          proficiency but also in interpersonal skills and thriving in team
+          environments. I am driven by problem-solving and constantly seek new
+          challenges to fuel my growth and knowledge expansion. Let's
+          collaborate and create captivating digital experiences together.
         </p>
       </div>
       <p

@@ -55,10 +55,10 @@ export const Projects = [
   {
     id: 1,
     image: digisec,
-    name: "HTML | CSS | JavaScript | Google API",
-    work: "Digital Security",
-    github: "https://github.com/TRIPLE-ADE/Digital_security_village",
-    live: "https://digisecvillage.org/",
+    name: "HTML | CSS | JavaScript",
+    work: "FixMyRide",
+    github: "https://github.com/Solexgreat/FixMyRide",
+    live: "https://fixmyride.netlify.app/",
   },
   {
     id: 2,

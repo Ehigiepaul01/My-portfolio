@@ -16,7 +16,7 @@ import music from './music.jpg';
 import main from './main.jpg';
 import crypto from './crypto.jpg';
 import mentor from './mentor.jpg';
-import digisec from './digisec.jpg';
+import digisec from './digisec.png';
 
 
 
