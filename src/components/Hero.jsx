@@ -26,9 +26,9 @@ const Hero = () => (
         </a>
       </div>
       {/* Hero Image */}
-      {/* <div>
-        <img src={hero} alt="Hero Image" className="w-72 h-80 rounded-full"/>
-      </div> */}
+      <div>
+        <img src={hero} alt="Hero Image" className="w-52 rounded-full"/>
+      </div>
     </div>
     {/* <img src={divider} alt="" className='absolute -right-80'/> */}
   </section>

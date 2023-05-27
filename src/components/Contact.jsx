@@ -39,7 +39,7 @@ const Contact = () => {
       }   
 
       //data sending throught API
-      const response = await fetch('https://formspree.io/f/xlekvlpv', {
+      const response = await fetch('https://formspree.io/f/meqwwppa', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
