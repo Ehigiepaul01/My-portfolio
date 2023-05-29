@@ -18,8 +18,8 @@ const Hero = () => (
         <p
           className={`${section.textPaddingY} ${section.textLgDefault} ${section.textLarge}`}
         >
-          I am passionate about creating solutions to various real life problems
-          and making the world an easier place to live in.
+          I am passionate about creating solutions <br /> to various real life problems
+          and making <br /> the world an easier place to live in.
         </p>
         <a href={resume} download className={`${section.button} button`}>
           Download CV
@@ -27,7 +27,7 @@ const Hero = () => (
       </div>
       {/* Hero Image */}
       <div>
-        <img src={hero} alt="Hero Image" className="w-52 rounded-full"/>
+        <img src={hero} alt="Hero Image" className="w-72 rounded-full"/>
       </div>
     </div>
     {/* <img src={divider} alt="" className='absolute -right-80'/> */}
