@@ -84,14 +84,14 @@ export const Projects = [
     github: "https://github.com/Ehigiepaul01/casmi_store",
     live: "https://casmi-store.netlify.app/",
   },
-  // {
-  //   id: 5,
-  //   image: mentor,
-  //   name: "React | Tailwind-CSS | Firebase | API",
-  //   work: "Bolster",
-  //   github: "https://github.com/TRIPLE-ADE/Metro-web",
-  //   live: "https://bolsterpp.netlify.app/",
-  // },
+  {
+    id: 5,
+    image: mentor,
+    name: "React | Tailwind-CSS | Firebase | API",
+    work: "Bolster",
+    github: "https://github.com/TRIPLE-ADE/Metro-web",
+    live: "https://bolsterpp.netlify.app/",
+  },
   // {
   //   id: 6,
   //   image: bank,
