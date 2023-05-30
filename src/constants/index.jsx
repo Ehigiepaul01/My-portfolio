@@ -87,10 +87,10 @@ export const Projects = [
   {
     id: 5,
     image: mentor,
-    name: "React | Tailwind-CSS | Firebase | API",
+    name: "HTML | CSS | Bootstrap| JavaScript",
     work: "Bolster",
-    github: "https://github.com/TRIPLE-ADE/Metro-web",
-    live: "https://bolsterpp.netlify.app/",
+    github: "https://github.com/ceceukoha/Bolster",
+    live: "https://bolsterapp.netlify.app/",
   },
   // {
   //   id: 6,

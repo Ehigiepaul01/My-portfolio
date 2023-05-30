@@ -15,7 +15,7 @@ import bank from './bank.jpg';
 import music from './music.png';
 import main from './main.png';
 import crypto from './crypto.png';
-import mentor from './mentor.jpg';
+import mentor from './mentor.png';
 import digisec from './digisec.png';
 
 
