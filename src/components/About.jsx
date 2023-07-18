@@ -12,15 +12,13 @@ const About = () => (
           Hi, I am Paul Ehigie. A computer science graduate.
         </p>
         <p className={`${section.textPaddingY} ${section.text}`}>
-          I am a passionate and dedicated Frontend Developer with over a year of
-          experience. I specialize in designing interactive and optimized
-          websites that make a positive impact on businesses. Working closely
-          with product designers and developers, I bring ideas to life through
+          I am a passionate and dedicated Frontend Developer.
+           I specialize in designing interactive and optimized
+          websites that make a positive impact on businesses. I bring ideas to life through
           seamless implementation. My strengths lie not only in technical
           proficiency but also in interpersonal skills and thriving in team
           environments. I am driven by problem-solving and constantly seek new
-          challenges to fuel my growth and knowledge expansion. Let's
-          collaborate and create captivating digital experiences together.
+          challenges to fuel my growth and knowledge expansion.
         </p>
       </div>
       <p
