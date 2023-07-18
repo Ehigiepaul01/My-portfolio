@@ -58,7 +58,7 @@ export const Projects = [
     name: "HTML | CSS | JavaScript",
     work: "FixMyRide",
     github: "https://github.com/Solexgreat/FixMyRide",
-    live: "https://fixmyride.netlify.app/",
+    live: "https://fix-my-ride.netlify.app/",
   },
   {
     id: 2,
