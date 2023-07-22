@@ -59,7 +59,7 @@ export const Projects = [
     work: "FixMyRide",
     github: "https://github.com/Solexgreat/FixMyRide",
     live: "https://fix-my-ride.netlify.app/",
-  },
+  }, 
   {
     id: 2,
     image: main,
@@ -101,6 +101,17 @@ export const Projects = [
   //   live: "https://modern-bank-web-app.netlify.app/",
   // },
 ];
+
+{Projects.map((project) => (
+  <div key={project.id}>
+    <img src={project.image} alt={project.work} />
+    <h3>{project.name}</h3>
+    <p>{project.work}</p>
+    <a href={project.github}>GitHub</a>
+    <a href={project.live}>Live Demo</a>
+  </div>
+))}
+
 
 export const FootersLink = [
     {
