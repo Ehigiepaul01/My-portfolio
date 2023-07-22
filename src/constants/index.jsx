@@ -104,13 +104,16 @@ export const Projects = [
 
 {Projects.map((project) => (
   <div key={project.id}>
-    <img src={project.image} alt={project.work} />
+    <a href={project.live} target="_blank" rel="noopener noreferrer">
+      <img src={project.image} alt={project.work} />
+    </a>
     <h3>{project.name}</h3>
     <p>{project.work}</p>
-    <a href={project.github}>GitHub</a>
-    <a href={project.live}>Live Demo</a>
+    <a href={project.github} target="_blank" rel="noopener noreferrer">GitHub</a>
+    <a href={project.live} target="_blank" rel="noopener noreferrer">Live Demo</a>
   </div>
 ))}
+
 
 
 export const FootersLink = [
